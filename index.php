@@ -27,17 +27,17 @@
                                         <div class="col-12 col-md-6">
                                             <div class="form-group">
                                                 <label for="text" class="sr-only"></label>
-                                                <input id="text" class="form-control" type="text" placeholder="Heigth(m)" />
+                                                <input id="text" class="form-control" type="text" placeholder="Heigth(m)" required/>
                                             </div>
                                             <div class="form-group">
                                                 <label for="text" class="sr-only"></label>
-                                                <input id="text" class="form-control" type="text" placeholder="Weigth(kg)" />
+                                                <input id="text" class="form-control" type="text" placeholder="Weigth(kg)" required/>
                                             </div>
                                         </div>
                                         <div class="col-12 col-md-6">
                                             <div class="form-group">
                                                 <label for="text" class="sr-only"></label>
-                                                <input id="text" class="form-control" type="number" placeholder="Age" />
+                                                <input id="text" class="form-control" type="number" placeholder="Age" required/>
                                             </div>
                                           </div>
                                         <div class="col-12 col-md-6">
